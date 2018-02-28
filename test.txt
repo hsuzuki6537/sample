@@ -1,0 +1,75 @@
+フォルダー パスの一覧
+ボリューム シリアル番号は 3435-3964 です
+E:\
+├─DCIM
+│  └─100SHARP
+│          DVC00001.JPG
+
+│          DVC00257.JPG
+│          
+├─MISC
+├─SD_PIM
+│      PIM_DATA.PIM
+│      PIM00001.VCF
+│      PIM00164.VMG
+│      
+├─SD_VIDEO
+│  └─PRL001
+│          MOL001.3GP
+│          MOL002.3GP
+│          SMI008.SMI
+│          MOL003.3GP
+│          SMI002.SMI
+│          
+├─BOOK
+├─SD_BIND
+│  │  SD_BIND.SLM
+│  │  
+│  ├─SVC00001
+│  │  │  SD_BIND.TKM
+│  │  │  SD_BIND.INF
+│  │  │  
+│  │  ├─00000001
+│  │  ├─00000004
+│  │  └─HF6F311F
+│  ├─SVC00002
+│  │  │  SD_BIND.TKM
+│  │  │  SD_BIND.INF
+│  │  │  
+│  │  └─00000001
+│  │          SD_FINFO
+│  │          F493E1
+│  │          F493E2
+│  │          F493E3
+│  │          
+│  └─SVC00003
+│      │  SD_BIND.TKM
+│      │  SD_BIND.INF
+│      │  
+│      └─00000001
+├─PRIVATE
+│  ├─DOCOMO
+│  │  ├─RINGER
+│  │  ├─STILL
+│  │  ├─DOCUMENT
+│  │  │  └─PUD001
+│  │  ├─TORUCA
+│  │  ├─MMFILE
+│  │  │  │  MMF0001.3GP
+│  │  │  │  MMF0012.3GP
+│  │  │  │  
+│  │  │  └─WM_SYSTEM
+│  │  │          ldb.db
+│  │  │          
+│  │  ├─LCSCLIENT
+│  │  ├─DECOIMG
+│  │  └─OTHER
+│  │              
+│  └─SHARP
+│      ├─IMPORT
+│      └─FOMADATA
+│          ├─ImgCache
+│          └─Thumbs
+│              └─OTHER
+└─DEVPROF
+        
